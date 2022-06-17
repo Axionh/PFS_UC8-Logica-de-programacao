@@ -60,11 +60,19 @@ Compartilhe o resultado do seu trabalho, publicando aqui seu arquivo, para que o
  </details></li>
 <li><details>
     <summary>Encontro Remoto 01</summary>
-  Codificação de um sistema de contagem de peças, aplicando a linguagem JavaScript.
-
- 
+Codificação de um sistema de contagem de peças, aplicando a linguagem JavaScript. 
 
 Essa atividade será conduzida pelo seu professor tutor em um encontro remoto.
+
+Situação problema:
+A empresa Savinis, focada no desenvolvimento de software de alta performance, contratou você para realizar a programação de um sistema de cadastro de peças, que deverá atender os seguintes requisitos: 
+•	Se a peça possuir um peso superior a 100gramas, pode cadastrar.
+•	Dada a capacidade de cada caixa, caso a lista de peças seja superior a 10, imprima uma mensagem informando não ter capacidade suficiente.
+•	Caso a peça tenha um nome com quantidade inferior a 3 caracteres, informe uma mensagem de erro.
+Para criação desse sistema de cadastro, você, enquanto programador(a) responsável, deverá solucionar os seguintes desafios:
+•	Aplicar técnicas de programação e ferramentas para desenvolvimento do código.
+•	Aplicar linguagem de programação JavaScript para implementação do sistema.
+
 
 Portanto, consulte os avisos de confirmação da data e horário aqui no AVA, na aba "Encontros Presenciais/Remotos". 
 
@@ -80,10 +88,7 @@ ANTES DO ENCONTRO:
 
 - Seguir o passo a passo (desafio 3) para instalar:
 
- 
-
 * o software gratuito Visual Studio Code para edição de código: https://code.visualstudio.com/ 
-
 * o software gratuito Node.jspara execução de código: https://nodejs.org/en/download
 
  
