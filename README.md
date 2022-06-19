@@ -131,8 +131,7 @@ Bom Trabalho!
 <li><details>
     <summary>Encontro Remoto 02</summary>
 
-    Codificação de um sistema de contagem
-e classificação
+    Codificação de um sistema de contagem e classificação
  
 Essa atividade será conduzida pelo seu professor tutor em um encontro remoto.
  
