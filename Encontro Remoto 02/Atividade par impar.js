@@ -1,3 +1,4 @@
+// Atividade encontro remoto 02
 // Conside a quantidade de alunos presentes na sala, percorra do zero até o número total de alunos 
 // se o número for par, escreva par e o numero correspondente
 // se o número for impar, escreca impar e o numero correspondente
